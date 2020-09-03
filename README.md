@@ -1,6 +1,7 @@
 # Improvement of Quantum Circuits Using H-U-H Sandwich Technique with Diagonal Matrix Implementation
 
-Alhamdulillah! My Research Paper on Quantum Computing having title "Improvement of Quantum Circuits Using H-U-H Sandwich Technique with Diagonal Matrix Implementation" has been published in an international journal with my corresponding Iqra Naz in this paper we have design a technique and algorithm for the reduction of the components in the Circuit of quantum computing and simulate and apply it using Qiskit and named it as "H-U-H Sandwich Technique" Please Have a Read and Give Feed Back
+Alhamdulillah! 
+My Research Paper on Quantum Computing having title "Improvement of Quantum Circuits Using H-U-H Sandwich Technique with Diagonal Matrix Implementation" has been published in an international journal with my co-author Muhammad Miqdad Khan. In this paper we have design a technique and algorithm for the reduction of the components in the Circuit of quantum computing and simulate and apply it using Qiskit and named it as "H-U-H Sandwich Technique" Please Have a Read and Give Feed Back
 
 #### Journals Website link:
 http://www.ajscieng.com/index.php/ajse/article/view/ajse2013098/ajse2013098
